@@ -8,9 +8,9 @@ Pure JavaScript, HTML and CSS using with Bulma CSS Framework
 
 # Application Programming Interfaces(APIs)
 
-Unsplash API
-Chuck Norris API
-Google Translate API
+Unsplash API,
+Chuck Norris API,
+Google Translate API,
 
 # Dependencies
 
